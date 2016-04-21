@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: cf15acce21c6005439c3f783788a111f
+labels:
+- Character
 timeCreated: 1460517225
 licenseType: Free
 TextureImporter:
@@ -51,7 +53,7 @@ TextureImporter:
   spriteSheet:
     sprites: []
     outline: []
-  spritePackingTag: 
+  spritePackingTag: foe
   userData: 
   assetBundleName: 
   assetBundleVariant: 
